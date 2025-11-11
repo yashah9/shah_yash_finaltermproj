@@ -1,7 +1,4 @@
 
----
-
-````markdown
 #  Telco Customer Churn Prediction (Binary Classification)
 
 ## Project Overview
@@ -16,9 +13,7 @@ The dataset used is the **Telco Customer Churn dataset**, which contains demogra
 
 The goal is to evaluate and compare these models across multiple performance metrics using **10-fold cross-validation**, and to determine which algorithm generalizes best for churn prediction.
 
----
-
-## ⚙️ How to Run the Code
+## How to Run the Code
 
 ### 1. Setup Environment (VS Code / Google Colab / Command Line)
 
@@ -151,7 +146,4 @@ Main attributes include: `tenure`, `Contract`, `PaymentMethod`, `MonthlyCharges`
 
 **Yash Shah**
 New Jersey Institute of Technology
-
-
-```
 
